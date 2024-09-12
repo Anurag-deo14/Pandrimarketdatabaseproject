@@ -1,4 +1,4 @@
-# Global E-Commerce Analytics Platform
+# Pandrimarket E-Commerce Analytics code base
 
 ## Project Overview
 
